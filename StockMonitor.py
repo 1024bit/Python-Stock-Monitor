@@ -104,7 +104,7 @@ def printStockData(stockName):
 ## Takes no parameters, returns a list
 def returnFile():
   stockList = []
-  f = open('stockSave.txt', 'rU') #open the file for reading
+  f = open('stockSave.txt', 'r') #open the file for reading
   for line in f: #append each items to a list
     stockList.append(line[:-1]) #splice each string, to remove the '\n' on each of the lines
   return stockList
