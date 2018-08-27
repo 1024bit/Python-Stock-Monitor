@@ -10,9 +10,6 @@ This command line program allows the user to:
 the next time the user opens the program
 
 Data scraped from ca.finance.yahoo.com and nasdaqtrader.com
-
-Note: if program not working update certificates for python 3.6:
-Copy and paste into terminal/command prompt: /Applications/Python\ 3.6/Install\ Certificates.command
 """
 
 import sys
