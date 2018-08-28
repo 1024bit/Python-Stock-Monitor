@@ -47,8 +47,8 @@ Follow the instructions for navigation within the program.
 
 ## Acknowledgments
 
-* Financial data scraped from [Yahoo Finance](ca.finance.yahoo.com)
-* Stock data scraped from [NASDAQ Trader](nasdaqtrader.com)
+* Financial data scraped from [Yahoo Finance](https://ca.finance.yahoo.com/)
+* Stock data scraped from NASDAQ Trader
 
 ## Screenshots
 
