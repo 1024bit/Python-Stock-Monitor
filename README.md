@@ -26,7 +26,7 @@ git clone https://github.com/LiskB/Python-Stock-Monitor.git
 Navigate to repository location using the terminal / command prompt
 
 ```
-cd *Path to folder*
+cd (Path to folder)
 ```
 
 Run the python program
@@ -52,6 +52,8 @@ Follow the instructions for navigation within the program.
 
 ## Screenshots
 
-![Main Menu Screen](/screenshots/main.png?raw=true "Main Menu Screen")
+Main Menu Screen
+![Main Menu Screen](/screenshots/main.png?raw=true)
 
-![Monitoring Screen](/screenshots/main.png?raw=true "Monitoring Screen")
+Monitoring Screen
+![Monitoring Screen](/screenshots/main.png?raw=true)
