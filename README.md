@@ -52,8 +52,7 @@ Follow the instructions for navigation within the program.
 
 ## Screenshots
 
-Main Menu Screen
 ![Main Menu Screen](/screenshots/main.png?raw=true)
 
-Monitoring Screen
+
 ![Monitoring Screen](/screenshots/main.png?raw=true)
