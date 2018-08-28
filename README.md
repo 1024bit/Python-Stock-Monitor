@@ -1,6 +1,11 @@
-# Project Title
+# Stock Monitor
 
-One Paragraph of project description goes here
+This command line program allows the user to:
+* Obtain real-time information about a stock, sourced from Yahoo Finance
+* Search an up-to-date dictionary by stock name or stock symbol
+* Add stocks to monitoring for comparison. This data is saved to a file and is available the next time the user opens the program
+
+Concepts learned from [Google's Python Class](https://developers.google.com/edu/python/), such as utilities and regular expressions.
 
 ## Getting Started
 
@@ -8,67 +13,45 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+[Python](https://www.python.org/downloads/) (preferably 3.6.2, but any recent version will be compatible)
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+Clone or download this repository
 
 ```
-Give the example
+git clone https://github.com/LiskB/Python-Stock-Monitor.git
 ```
 
-And repeat
+Navigate to repository location using the terminal / command prompt
 
 ```
-until finished
+cd *Path to folder*
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
+Run the python program
 
 ```
-Give an example
+python3 StockMonitor.py
 ```
 
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
+Follow the instructions for navigation within the program.
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Python 3.6.2](https://www.python.org/) - The language used
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Branden Lisk**
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Financial data scraped from [Yahoo Finance](ca.finance.yahoo.com)
+* Stock data scraped from [NASDAQ Trader](nasdaqtrader.com)
 
 ## Screenshots
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+
+![Main Menu Screen](/screenshots/main.png?raw=true "Main Menu Screen")
+
+![Monitoring Screen](/screenshots/main.png?raw=true "Monitoring Screen")

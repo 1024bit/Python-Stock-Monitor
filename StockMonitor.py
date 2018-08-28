@@ -1,17 +1,3 @@
-"""
-Created Aug. 6 2018
-Branden Lisk
-NASDAQ Stock Monitor in python 3.6.2
-
-This command line program allows the user to:
--Obtain real-time information about a stock, sourced from Yahoo Finance
--Search an up-to-date dictionary by stock name or stock symbol
--Add stocks to monitoring for comparison. This data is saved to a file and is available
-the next time the user opens the program
-
-Data scraped from ca.finance.yahoo.com and nasdaqtrader.com
-"""
-
 import sys
 import urllib.request
 import re
